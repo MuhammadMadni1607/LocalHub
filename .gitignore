@@ -1,0 +1,8 @@
+# Local runtime uploads and duplicate workspace copy
+uploads/*
+!uploads/.gitkeep
+LocalHub/
+
+# Common local artifacts
+Thumbs.db
+.DS_Store
